@@ -1,4 +1,4 @@
-## 📊 Window Functions
+##  Window Functions
 
 This folder contains PostgreSQL scripts that demonstrate advanced analytical techniques using window functions. Each query is designed to solve real-world business problems and showcase SQL fluency for portfolio and interview use.
 
