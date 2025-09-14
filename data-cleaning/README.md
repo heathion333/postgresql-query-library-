@@ -4,7 +4,7 @@ This folder contains PostgreSQL scripts designed to clean and prepare raw data f
 
 ---
 
-## 🧼 Included Scripts
+##  Included Scripts
 
 ### `null_handling.sql`
 Replaces NULLs and empty strings with fallback values using `COALESCE`, `CASE`, and `TRIM`.  
@@ -24,7 +24,7 @@ Flags extreme values in numeric fields using the Interquartile Range (IQR) metho
 
 ---
 
-## 💡 Portfolio Impact
+##  Portfolio Impact
 
 These scripts are designed to:
 - Simulate realistic data issues
